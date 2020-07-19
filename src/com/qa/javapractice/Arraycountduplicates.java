@@ -27,6 +27,7 @@ public class Arraycountduplicates {
 
 		}
        System.out.println(recurssion);
+       System.out.println("9 is unique number"+ recurssion.containsValue(1));
 	}
 
 }
